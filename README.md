@@ -8,51 +8,73 @@ This project is an analysis of New York Citi Bike data, using data visualization
 ### Deployed Tableau Analysis
 [Link to dashboard](https://public.tableau.com/app/profile/aem.saidur.rahman/viz/BikesharingAnalysis_16483225273440/Story1?publish=yes)
 
-### New York Citi Bike data visualizations for August 2019
+<p align="center">  
+    New York Citi Bike data visualizations for August 2019
+<p align="center">  
 
-### Segment Overview
 
-Pic
+<p align="center">  
+<img src="https://github.com/aem-saidur-rahman/Bikesharing-Analysis/blob/main/images/overview.png" width="100%" height="100%">
+</p>
+<p align="center">  
+<i>Figure : Segment Overview </i>
+</p>
 
 - There were over 2.3 million rides for the month of August 2019.
 - 81% of the users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
-- There is a wide range of the age of the users. Younger users tend to use the service for longer rides.
-- Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
 
 <br>
 
-#### August Peak Hours
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97826311-e8b05e00-1c86-11eb-8240-ab05bc3cb61f.png"> 
+
+<p align="center">  
+<img src="https://github.com/aem-saidur-rahman/Bikesharing-Analysis/blob/main/images/peak.png" width="100%" height="100%">
+</p>
+<p align="center">  
+<i>Figure : Peak Hours (in August) </i>
 </p>
 
-- Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
+- Highest activity hours are from 4:00 PM to 7:00 PM and require the most resources mobilized.
 - The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
 
 <br>
 
-#### Checkout times for users
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97828088-b7865c80-1c8b-11eb-9c03-91ad942a6daa.png"> 
+
+<p align="center">  
+<img src="https://github.com/aem-saidur-rahman/Bikesharing-Analysis/blob/main/images/chu.png" width="100%" height="100%">
+</p>
+<p align="center">  
+<i>Figure : Checkout time by users (12-2 AM) </i>
 </p>
 
-- Bikes are mostly checked out for 4 to 6 hours.
+- Very minimal/no ride during night 12:45 am-2 am.
 
 <br>
 
-#### Checkout times by gender
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97828090-b8b78980-1c8b-11eb-947f-87486da03b73.png"> 
+
+<p align="center">  
+<img src="https://github.com/aem-saidur-rahman/Bikesharing-Analysis/blob/main/images/chg.png" width="100%" height="100%">
+</p>
+<p align="center">  
+<i>Figure : Checkout time by gender </i>
 </p>
 
 - Male users take approximately 3 times more rides than the female users.
 
 <br>
 
-#### Trips by weekday and gender
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97826316-e9e18b00-1c86-11eb-814c-b558ed34335d.png">
-    <img src="https://user-images.githubusercontent.com/68669675/97826317-e9e18b00-1c86-11eb-9559-f06b93418b58.png">
+
+<p align="center">  
+<img src="https://github.com/aem-saidur-rahman/Bikesharing-Analysis/blob/main/images/twg.png" width="100%" height="100%">
+</p>
+<p align="center">  
+<i>Figure : Trips by Gender in weekday </i>
+</p>
+
+<p align="center">  
+<img src="https://github.com/aem-saidur-rahman/Bikesharing-Analysis/blob/main/images/twh.png" width="100%" height="100%">
+</p>
+<p align="center">  
+<i>Figure : Trip by hours by user </i>
 </p>
 
 - Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
@@ -66,6 +88,6 @@ The far majority of the rides were in the very busy Manhattan Island, taken by m
 
 
 ### Additional analysis would be beneficial by :
-- comparing data for different months to determine trends across the year,
-- including weather data to find the correlation between the weather and the rides. 
+- Comparing data for different months to determine trends across the year,
+- Average ride duration differces between weekdays and weekends. 
 
